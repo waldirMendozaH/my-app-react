@@ -1,0 +1,20 @@
+.div1 {
+  text-align: center;
+  width: 80%;
+  height: auto;
+  background: rgb(23, 21, 21);
+  margin: auto;
+  padding: 7px;
+}
+.item {
+  color: rgb(226, 223, 223);
+  font-size: 40px;
+}
+
+.titleItem {
+  font-size: 30px;
+  color: rgb(238, 238, 249);
+}
+.parrafoItem {
+  color: rgb(235, 229, 241);
+}
